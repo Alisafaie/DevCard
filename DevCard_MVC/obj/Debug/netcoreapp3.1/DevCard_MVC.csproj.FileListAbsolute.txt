@@ -399,3 +399,5 @@ C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MV
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.csproj.AssemblyReference.cache
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Project.cshtml.g.cs
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\LatestArticles.cshtml.g.cs
+C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HeaderPartial.cshtml.g.cs
+C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FooterPartial.cshtml.g.cs
