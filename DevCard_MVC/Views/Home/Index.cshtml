@@ -2,9 +2,17 @@
     ViewData["Title"] = "Home Page";
 }
 
+@*Loading Partial View*@
 <partial name="AboutMePartial"/>
-<partial name="ProjectsPartial"/>
+@*<partial name="ProjectsPartial"/>*@
+@*End Loading Partial View*@
 
+
+@* Loading ViewComponent *@
+
+@await Component.InvokeAsync("Project")
+
+@* End Loading ViewComponent *@
 <div class="container">
     <hr>
 </div>
