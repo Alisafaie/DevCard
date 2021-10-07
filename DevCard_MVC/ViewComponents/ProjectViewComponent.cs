@@ -27,7 +27,7 @@ namespace DevCard_MVC.ViewComponents
                     "project-3.jpg",
                     "وحید روفیگری اصفهان")
             };
-            return View("_Projects", projects);
+            return View("_Project", projects);
         }
     }
 }
