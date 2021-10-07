@@ -339,7 +339,6 @@ C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MV
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.TagHelpers.output.cache
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.RazorCoreGenerate.cache
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -352,3 +351,4 @@ C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MV
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.dll
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.pdb
 C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.genruntimeconfig.cache
+C:\Users\Ali\source\repos\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
